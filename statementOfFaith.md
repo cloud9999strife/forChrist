@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Statement of Faith
 subtitle: Slave of Christ, husband, father, developer
 ---
 
