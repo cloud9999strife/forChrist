@@ -1,8 +1,8 @@
 ---
 layout: page
-title: RudiJvr.com
-tagline: The online home of RudiJvr
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: For Christ
+tagline: For the Lord of Glory
+description: Apologetics, theology, philosophy, to His honor.
 ---
 # Posts
 <ul class="posts">
