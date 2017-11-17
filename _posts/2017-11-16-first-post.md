@@ -6,4 +6,4 @@ bigimg: /img/path.jpg
 tags: [hello_world]
 ---
 
-潮時だ！
+潮時だ！!
