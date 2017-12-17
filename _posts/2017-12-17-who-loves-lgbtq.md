@@ -13,4 +13,4 @@ If LQBTQ people are our neighbors, then we must love them. Indeed, even if they 
 
 How then should we love LGBTQ people? One of the things we aught to do is to tell them the truth. We should not tell them that nothing is wrong with them and affirm their "right" to choose their own gender identity. A fine example of how not to love LGBTQ people is shown to us by @DrRonHolt:
 
-![HowNotToLoveTweetByRonHolt1](![useful image]({{ site.url }}/assets/ronTweet1.png))
+![HowNotToLoveTweetByRonHolt1](![useful image]({{ site.url }}/img/LovingLGTQ/ronTweet1.png))
