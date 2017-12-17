@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Loving and accepting LGBTQ people
-subtitle: SomeSub
+subtitle: Should we, and how do we?
 bigimg: /img/LovingLGTQ/lgbt-flag.jpg
 ---
 
