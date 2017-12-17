@@ -6,11 +6,11 @@ bigimg: /img/LovingLGTQ/lgbt-flag.jpg
 ---
 
 # Should we love LGBTQ people?
-Should LQBTQ people be loved? Yes. When Jesus was asked which is the great commandment in the law, He said
+Yes. When Jesus was asked which is the great commandment in the law, He said
 > “‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’ This is the great and foremost commandment. The second is like it, ‘You shall love your neighbor as yourself.’ On these two commandments depend the whole Law and the Prophets.” (Matthew 22:37-40, NASB)
 
 If LQBTQ people are our neighbors, then we must love them. Indeed, even if they are our enemies, we should love them (Matthew 5:43-48, NASB).
 
 How then should we love LGBTQ people? One of the things we aught to do is to tell them the truth. We should not tell them that nothing is wrong with them and affirm their "right" to choose their own gender identity. A fine example of how not to love LGBTQ people is shown to us by @DrRonHolt:
 
-![HowNotToLoveTweetByRonHolt](https://github.com/cloud9999strife/forChrist/blob/master/img/LovingLGTQ/ronTweet1.png)
+![HowNotToLoveTweetByRonHolt](![useful image]({{ site.url }}/assets/ronTweet1.png))
