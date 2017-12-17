@@ -55,11 +55,11 @@ avatar: "/img/bible.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Rudi JvR
-  #email: "cloud9999strife@gmail.com"
+  name: ©
+  #email: "someMail@gmail.com"
   #facebook: yourname  # eg. daattali
-  #github: cloud9999strife    # eg. daattali
-  #twitter: jvrRudi   # eg. daattali
+  #github: yourname    # eg. daattali
+  #twitter: accName   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   #linkedin: yourname  # eg. daattali
