@@ -13,14 +13,14 @@ If LQBTQ people are our neighbors, then we must love them. Indeed, even if they 
 
 # How?
 
-One of the things we aught to do is to tell them the truth. We should not tell them that nothing is wrong with them and affirm their "right" to choose their own gender identity. A fine example of how not to love LGBTQ people is shown to us by [@DrRonHolt](https://twitter.com/):
+One of the things we ought to do is to tell them the truth. We should not tell them that nothing is wrong with them and affirm their "right" to choose their own gender identity. A fine example of how not to love LGBTQ people is shown to us by [@DrRonHolt](https://twitter.com/):
 
 ![HowNotToLoveTweetByRonHolt1]({{ site.url }}/img/LovingLGTQ/ronTweet1.png "@DrRonHolt's tweet")
 
 Let's look at what he tweeted:
 
 # "You are worthy of love."
-When we look at scripture, we do not see humans as being worthy of love. We aught to love our fellow human beings because they are made in God's image. God doesn't love us because we are worthy. Rather, God's love is transformative, He set's His love upon whomever He chooses, and makes them lovely.
+When we look at scripture, we do not see humans as being worthy of love. We ought to love our fellow human beings because they are made in God's image. God doesn't love us because we are worthy. Rather, God's love is transformative, He set's His love upon whomever He chooses, and makes them lovely.
 
 # "You are worthy of acceptance"
 What could this mean other than making no issue about the sin of LGBTQ people? Loving a person does not mean I have to accept their particular sin. That sin could be the abomination of homosexual acts, the wretched behavior of a man dressing and acting like a woman and vice versa. I accept LGBTQ people; I accept that they are in sin and I need to tell them about Christ and His saving power. I will not, however, accept their sin as being normal. As long as I hold to the Bible as my ultimate authority, I just can't.
